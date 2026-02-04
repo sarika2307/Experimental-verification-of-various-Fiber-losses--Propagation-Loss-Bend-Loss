@@ -93,20 +93,12 @@ This \(a\) is for **950nm wavelength**.
 6. Plot graph: **Received signal amplitude vs. Loop diameter**.  
 
 ---
-
 ## TABULATION
+<img width="1129" height="1600" alt="image" src="https://github.com/user-attachments/assets/799e1184-bbb2-41dc-bffb-0fac54f4771a" />
+<img width="1591" height="1600" alt="image" src="https://github.com/user-attachments/assets/47e83202-7a4b-4bea-ad9c-6118add2ab54" />
 
-### Propagation Loss
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|----------------------|-----------------------|
-|              |                      |                       |
 
-### Bending Loss
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|----------------------|-----------------------|
-|                  |                      |                       |
 
----
 
 ## RESULT
 - Propagation loss and bending losses for **660nm** and **950nm** wavelengths were measured.  
